@@ -1,0 +1,6 @@
+/Users/dianamukhambetkali/Desktop/pp2/lab1/task1/task1/obj/x86/Debug/task1.csprojAssemblyReference.cache
+/Users/dianamukhambetkali/Desktop/pp2/lab1/task1/task1/obj/x86/Debug/task1.csproj.CoreCompileInputs.cache
+/Users/dianamukhambetkali/Desktop/pp2/lab1/task1/task1/bin/Debug/task1.exe
+/Users/dianamukhambetkali/Desktop/pp2/lab1/task1/task1/bin/Debug/task1.pdb
+/Users/dianamukhambetkali/Desktop/pp2/lab1/task1/task1/obj/x86/Debug/task1.exe
+/Users/dianamukhambetkali/Desktop/pp2/lab1/task1/task1/obj/x86/Debug/task1.pdb
