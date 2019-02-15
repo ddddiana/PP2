@@ -22,17 +22,17 @@ namespace task1
                 p = 1; //as true/false
                 while (k < arr[j]) //while arr greater than k, check if arr elements evenly divisible 
                 {
-                    if (arr[j] % k == 0) 
+                    if (arr[j] % k == 0)
                     {
                         p = 0;
                         break; //if elements evenly divisible - not prime, it breaks
                     }
-                    k++;
-                }
+                    k++; //then checking next element
 
-                if (p == 1) 
-                {
-                    Console.Write(arr[j] + " "); //if it is false show the elements which are prime
+                    if (p == 1)
+                    {
+                        Console.Write(arr[j] + " "); //if it is false show the elements which are prime
+                    }
                 }
             }
 
